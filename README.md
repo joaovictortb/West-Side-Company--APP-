@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="./assets/nlw-esports-logo.svg" width="300" alt="Logo NLW eSports"/>
+      <img src="./assets/nlw-esports-logo.png" width="300" alt="Logo NLW eSports"/>
 </p>
 
 <h1 align="center">[NLW eSports] Mission: Ignite</h1>
